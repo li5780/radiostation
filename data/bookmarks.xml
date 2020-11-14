@@ -31,6 +31,9 @@
        </group>
        <group name="Polskie">
     	   <bookmark name="AntyRadio" url="http://ant-waw-01.cdn.eurozet.pl:8602/listen.pls"/>
+         <bookmark name="CENTRUM Lublin" url="https://radio.centrum.fm/live"/>
+         <bookmark name="NOWY SWIAT" url="https://stream.nowyswiat.online/mp3"/>
+         <bookmark name="PRO RADIO" url="http://radiointernetowe.net:7802/"/> 
     	   <bookmark name="Eska" url="http://waw02-03.ic.smcdn.pl:8000/t042-1.mp3.m3u"/>
     	   <bookmark name="Eska Rock" url="http://waw02-03.ic.smcdn.pl:8000/t041-1.mp3.m3u"/>
     	   <bookmark name="Kolor" url="http://stream4.nadaje.com:15358/radiokolor.m3u"/>
@@ -127,8 +130,9 @@
      </group>
      <group name="Rock">
         <bookmark name=".977 Classic Rock" url="http://www.977music.com/tunein/web/classicrock.asx"/>
-    	<bookmark name="Classic Rock Planet" url="http://us5.internet-radio.com:8279/listen.pls"/>
-    	<bookmark name="Covers" url="http://somafm.com/covers.pls"/>
+    	  <bookmark name="Classic Rock Planet" url="http://us5.internet-radio.com:8279/listen.pls"/>
+        <bookmark name="ROCK TurboDJ" url="http://rock.turbodj.com"/>
+    	  <bookmark name="Covers" url="http://somafm.com/covers.pls"/>
         <bookmark name="Rock 181" url="http://listen.181fm.com/181-rock_64k.aac"/>
         <bookmark name="Rock Antenne" url="http://www.rockantenne.de/webradio/rockantenne.aac.pls"/>
      </group>
